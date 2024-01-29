@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "flowbite": "^1.8.1",
-    "vue": "^3.2.45",
+    "vue": "^3.4.5",
     "vue-grid-layout": "^2.4.0"
   },
   "devDependencies": {
